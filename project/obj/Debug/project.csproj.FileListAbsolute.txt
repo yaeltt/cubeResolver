@@ -1,0 +1,24 @@
+C:\Users\יעל טובול\Documents\Studies\finalProject\project\project\bin\Debug\project.exe.config
+C:\Users\יעל טובול\Documents\Studies\finalProject\project\project\bin\Debug\project.exe
+C:\Users\יעל טובול\Documents\Studies\finalProject\project\project\bin\Debug\project.pdb
+C:\Users\יעל טובול\Documents\Studies\finalProject\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\יעל טובול\Documents\Studies\finalProject\project\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+C:\Users\יעל טובול\Documents\Studies\finalProject\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\יעל טובול\Documents\Studies\finalProject\project\project\obj\Debug\project.exe
+C:\Users\יעל טובול\Documents\Studies\finalProject\project\project\obj\Debug\project.pdb
+C:\Users\יעל טובול\Documents\Studies\B class\finalProject\project\project\bin\Debug\project.exe.config
+C:\Users\יעל טובול\Documents\Studies\B class\finalProject\project\project\bin\Debug\project.exe
+C:\Users\יעל טובול\Documents\Studies\B class\finalProject\project\project\bin\Debug\project.pdb
+C:\Users\יעל טובול\Documents\Studies\B class\finalProject\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\יעל טובול\Documents\Studies\B class\finalProject\project\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+C:\Users\יעל טובול\Documents\Studies\B class\finalProject\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\יעל טובול\Documents\Studies\B class\finalProject\project\project\obj\Debug\project.exe
+C:\Users\יעל טובול\Documents\Studies\B class\finalProject\project\project\obj\Debug\project.pdb
+F:\project\project\bin\Debug\project.exe.config
+F:\project\project\bin\Debug\project.exe
+F:\project\project\bin\Debug\project.pdb
+F:\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+F:\project\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+F:\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+F:\project\project\obj\Debug\project.exe
+F:\project\project\obj\Debug\project.pdb
